@@ -6,6 +6,7 @@
 1. [Description](#description)
 2. [Installation Guide](#install)
 3. [Usage Guide](#usage)
+4. [Pictures](#pics)
 5. [Contributions](#contribution)
 6. [License](#license)
 7. [Questions](#questions)
@@ -25,6 +26,9 @@ A fully functional store built with React, Redux, and React-Redux. Backend built
 ## Usage Guide <a name="usage"></a>
 Follow installation requirments ^^^
 
+## Screenshots <a name="pics"></a>
+
+![Screenshot 2021-11-25 144847](https://user-images.githubusercontent.com/73779089/143437105-30ed105e-5d93-4fef-9026-083baf2a45e4.png)
 
 
 ## Contributions <a name="contribution"></a>
